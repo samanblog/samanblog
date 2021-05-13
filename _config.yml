@@ -1,6 +1,6 @@
 site: Saman
 url: #yoururl
-title: Asko
+title: Saman
 description: Blogging the Journey
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
@@ -15,7 +15,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: "saman.blog"
+baseurl: ""
 
 highlighter: rouge
 
