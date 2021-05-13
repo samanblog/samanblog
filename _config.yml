@@ -1,7 +1,7 @@
-site: Asko
+site: Saman
 url: #yoururl
 title: Asko
-description: Simple and minimalistic jekyll blogging theme.
+description: Blogging the Journey
 googlewebfonts: Fira+Code:wght@400;500;700
 twitter:
   username: #yourusername
@@ -15,7 +15,7 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: ""
+baseurl: "saman.blog"
 
 highlighter: rouge
 
