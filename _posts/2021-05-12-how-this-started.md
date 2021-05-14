@@ -1,25 +1,16 @@
 ---
 layout: post
-title: Overhead Equals Death
-description: Overhead Equals Death
-summary: Overhead Equals Death
-tags: [starting, entrepreneurship, financialsm, cost-management]
+title: How this started
+description: How this started
+summary: How this started
+tags: [starting, entrepreneurship]
 ---
 
-Last month I was listeting to Audible version of the "Company of One" book while driving my bike in an almost dead industrial area in Toronto, that I heard Paul Jarvis saying: "Overhead Equals Death". He was talking about an architect that lost his job in a financial crisis and forced to have his own home office called "the box". As he was operating alone, he didn't want to have any overheads that distracts his from his job: mostly working with freelancers to run the company.
+Yesterday I applied for working remotely, due to travel back home for my wedding. And I was almost sure I'm going to get approved. Many people worked remotely before and during the last 2 years I have put all my efforts including some off time and weekends for the company.
 
-In those days I have registered borj.io domain and got google workspace for it which was charging me around 7$. But for the website, I used AWS's 12 month EC2 free tier with wordpress. Still seeing that 7$ in my credit card was a pain. So I set out to cancel it today. But still will keep the website as is. For email service will use Zoho, it doesn't have all the bells and whistles, but it works.
+Then answer came back that they decided in a commity that I can take extended vacation/leave, but there will be no remote work for me! And they gave some crazy ass reason for it (due to security).
 
-I got the current website completely free. Although you may say the UI sucks or SEO is not optimized, well in the current stage those are not an important factor for me. I need something that is free, works without any operational overhead and is fast. And this website is so fast you can't beat the spead, promised. It is deployed on the edges of the internet leveraging Cloudflare's network with Cloudflare's Pages. So after I write this post, I just commit it to open source git repo and pipelines will take care of the rest.
+I can bear almost any hardships, but coming from a pretty limiting country, I can't bear any limits to my freedom. Other people could do it, why not me? Other people do it in other companies, again why not me? I have a legit reason for it. I need to see my family after 3 years and get married. Fuck,... even writing it gives me that rush of feelings.
 
-Having the lowest overhead, helps you design, build, deliver and move on. I'm not talking just about financial overhead, we have operational overhead too. When the site's income/benefit is zero, $1 is 1 dollar too much. When you are profitable, cost defines your lifestyle. High profit margin means you will have a better runway, more to invest in other projects.
+So here I go... I started working on these projects in the hope of profitability and freedom from geographical/company boundries.
 
-So this post was about running lean financially and operationally. Hopefully will have another product launch soon (assuming this weblog was the first one).
-
-Simple:
-```bash
-git add .
-git commit "second post added"
-git push
---> Go and pure some tea, everything will be deployed on the fastest network of the world automatically!
-```
